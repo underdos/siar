@@ -1,4 +1,5 @@
 <html>
+<h1></h1>
 <?php
 session_start();
 require "func/function.php";
